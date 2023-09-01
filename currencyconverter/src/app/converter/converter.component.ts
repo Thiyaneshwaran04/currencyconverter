@@ -18,6 +18,7 @@ show1=true
 private exchangeRate:Record <string,number>={
   USD:1,
   INR:82.65,
+  
   EURO: 0.910651,
   AED:3.67250,
   GBP:0.785086
