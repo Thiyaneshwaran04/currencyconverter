@@ -1,0 +1,44 @@
+.from{
+    width:80px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.to{
+    width:80px;
+    margin: -39px 1px 1px 700px;
+}
+.amount{
+    width:150px;
+    margin-left: 585px;
+    margin-top: 30px;
+
+}
+.button{
+    width: 150px;
+    margin-left: 585px;
+    margin-top: 10px;
+
+}
+.output{
+    width: 165px;
+    margin-left: 585px;
+    margin-top: 10px;
+    height: 30px;
+
+}
+.p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: white;
+    margin-left: 500px;
+    
+
+}
+.photo{
+    margin: -191px 1px 1px 657px
+}
+.box{
+    height: 30px;
+    width: 185px;
+}
