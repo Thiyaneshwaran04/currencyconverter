@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./converter.component.css']
 })
 export class ConverterComponent implements OnInit {
-currency=['USD','INR','EURO','AED','GBP']
+currency=['USD','INR','EURO','AED','GBP','KWD']
 show=false
 option:any
 op1:any
@@ -21,7 +21,8 @@ private exchangeRate:Record <string,number>={
   
   EURO: 0.910651,
   AED:3.67250,
-  GBP:0.785086
+  GBP:0.785086,
+  KWD:0.308
 };
 
 fromRate:any
